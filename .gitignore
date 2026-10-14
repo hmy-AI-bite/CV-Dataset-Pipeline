@@ -4,4 +4,5 @@ __pycache__/
 *.jpg
 *.jpeg
 *.json
+*.csv
 library_dataset/
